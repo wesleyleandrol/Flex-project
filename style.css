@@ -209,6 +209,9 @@ footer .footer{
 }
 
 @media(max-width:940px) {
+    html{
+        margin: 0;
+    }
     .flex-container{
         flex-direction: column;
     }
